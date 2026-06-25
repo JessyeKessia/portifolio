@@ -16,8 +16,8 @@
     </p>
     <h1 class="hero-title">Desenvolvedora Full Stack</h1>
     <p class="hero-desc">
-      Profissional com foco em Machine Learning e Cloud AWS/Azure com experiência prática em desenvolvimento de chatbots inteligentes, AWS SageMaker, NLP, extração de entidades, análise de intenções e pipelines de dados. 
-      Além disso, atuando como desenvolvedora Full Stack com foco em Java, Spring Boot, Vue.js e PostgreSQL.
+      Profissional com experiência em Machine Learning e Inteligência Artificial com atuação no desenvolvimento de soluções na AWS. 
+      No momento, atuando como desenvolvedora Full Stack com foco em Java, Spring Boot, Vue.js e PostgreSQL.
     </p>
 
     <div class="skills-badges">
